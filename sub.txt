@@ -1,0 +1,13 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkltWE0tZ2hNQTRkM1VrQUdjYXRn@31.130.151.108:8085#Russian%20%20%F0%9F%87%B7%F0%9F%87%BA
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkltWE0tZ2hNQTRkM1VrQUdjYXRn@31.130.151.108:888#Ukraine%20%F0%9F%87%BA%F0%9F%87%A6%20
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkltWE0tZ2hNQTRkM1VrQUdjYXRn@31.130.151.108:8085#German%20%F0%9F%87%A9%F0%9F%87%AA%F0%9F%8E%AE
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NkltWE0tZ2hNQTRkM1VrQUdjYXRn@31.130.151.108:1685#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1%20
+
+vless://09463448-8f5f-4c68-b551-71929da96238@151.101.195.6:443?security=tls&type=xhttp&headerType=&path=%2Fnocky&host=Croxi.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=Croxi.global.ssl.fastly.net&fp=chrome&alpn=h3&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AAGerman-4%F0%9D%91%AE-3%F0%9D%91%AE-%F0%9D%91%BB%F0%9D%91%AC%F0%9D%91%B3%F0%9D%91%AC%F0%9D%91%AA%F0%9D%91%B6%F0%9D%91%B4%E2%9A%A1%EF%B8%8F
+
+vless://09463448-8f5f-4c68-b551-71929da96238@151.101.195.6:443?security=tls&type=xhttp&headerType=&path=%2Fnocky&host=Croxi.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=Croxi.global.ssl.fastly.net&fp=chrome&alpn=h3&allowInsecure=1#Finland%20%F0%9F%87%AB%F0%9F%87%AE%20-4%F0%9D%91%AE-3%F0%9D%91%AE-%F0%9D%91%BB%F0%9D%91%AC%F0%9D%91%B3%F0%9D%91%AC%F0%9D%91%AA%F0%9D%91%B6%F0%9D%91%B4%E2%9A%A1%EF%B8%8F
+
+vless://09463448-8f5f-4c68-b551-71929da96238@151.101.195.6:443?security=tls&type=xhttp&headerType=&path=%2Fnocky&host=dawut77.global.ssl.fastly.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+%221000000%22%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D&sni=dawut77.global.ssl.fastly.net&fp=chrome&alpn=h3&allowInsecure=1#Turkey%20%F0%9F%87%B9%F0%9F%87%B7-%204%F0%9D%91%AE-3%F0%9D%91%AE-%F0%9D%91%BB%F0%9D%91%AC%F0%9D%91%B3%F0%9D%91%AC%F0%9D%91%AA%F0%9D%91%B6%F0%9D%91%B4%E2%9A%A1%EF%B8%8F
